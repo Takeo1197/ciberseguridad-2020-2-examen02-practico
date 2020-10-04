@@ -1,0 +1,17 @@
+{
+  "name": "examen02-practico",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "question1": "node ./Pregunta1.js",
+    "question2": "node ./Pregunta2.js",
+    "question3": "node ./Pregunta3.js"
+  },
+  "author": "Diego Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "cryptico": "^1.0.2",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
