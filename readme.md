@@ -1,4 +1,4 @@
-#Examen 02 (Parte Práctica)
+# Examen 02 (Parte Práctica)
 
 ## Instrucciones
 
