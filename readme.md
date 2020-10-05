@@ -21,3 +21,7 @@
     ```
     npm run question3
     ```
+  - Pregunta 4
+    ```
+    ./Pregunta4.sh
+    ```
