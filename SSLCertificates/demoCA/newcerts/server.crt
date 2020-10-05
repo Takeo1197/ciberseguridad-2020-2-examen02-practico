@@ -1,0 +1,67 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PE, ST=Lima, L=Lima, O=Universidad de Lima, OU=Ingenieria de Sistemas, CN=Diego Garcia/emailAddress=garcia.diego1197@gmail.com
+        Validity
+            Not Before: Oct  5 06:44:51 2020 GMT
+            Not After : Oct  5 06:44:51 2021 GMT
+        Subject: C=PE, ST=Lima, O=Universidad de Lima, OU=Ing de Sistemas, CN=Diego Garcia/emailAddress=garcia.diego1197@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:cc:95:ec:5d:1a:e1:93:6a:fe:8d:d5:20:d6:23:
+                    15:5b:37:82:70:9a:99:65:97:41:4c:60:a2:cb:f8:
+                    22:fe:02:99:ff:1f:6b:47:7b:4f:da:7c:9f:dd:71:
+                    14:d2:4a:94:cd:31:8e:e9:0f:3f:36:7b:c4:bd:5c:
+                    53:f4:34:2b:54:d5:84:a3:0c:f0:84:a5:ce:6e:75:
+                    38:57:35:76:e4:0a:de:e3:d9:18:12:fe:3c:3e:79:
+                    c1:48:66:98:cc:52:40:42:f6:1e:7e:7c:cb:24:ea:
+                    be:6e:5a:99:e8:9f:2b:11:6b:d8:66:7b:ed:1c:df:
+                    69:3e:d1:30:b9:8c:e6:66:35
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                8F:3F:6A:3B:56:91:24:DD:48:D9:6E:60:B6:08:3A:44:D9:07:71:F5
+            X509v3 Authority Key Identifier: 
+                DirName:/C=PE/ST=Lima/L=Lima/O=Universidad de Lima/OU=Ingenieria de Sistemas/CN=Diego Garcia/emailAddress=garcia.diego1197@gmail.com
+                serial:96:26:B8:A7:BC:78:6E:5B
+
+    Signature Algorithm: sha1WithRSAEncryption
+         8b:69:35:f9:92:d6:c3:ca:54:de:ff:ef:83:47:b3:7d:d7:85:
+         79:e1:a5:90:72:95:d7:83:2f:7b:2f:63:c1:7b:67:df:e7:77:
+         ad:e0:5f:5d:d3:80:24:62:b5:a4:48:f5:34:c5:19:2f:00:db:
+         f9:95:ce:55:07:ef:40:41:1b:1c:81:ec:dc:54:0f:b5:da:ec:
+         10:f7:36:f5:c3:4a:ec:b0:3c:be:e3:13:26:5f:19:ff:14:fd:
+         6a:95:28:4e:f1:bb:63:66:e8:ca:26:35:ec:b8:df:ca:d6:98:
+         e5:2a:16:5e:02:c2:05:dd:23:9b:f9:5a:9e:d7:81:f0:de:28:
+         dc:b7
+-----BEGIN CERTIFICATE-----
+MIID5jCCA0+gAwIBAgIBATANBgkqhkiG9w0BAQUFADCBrDELMAkGA1UEBhMCUEUx
+DTALBgNVBAgMBExpbWExDTALBgNVBAcMBExpbWExHDAaBgNVBAoME1VuaXZlcnNp
+ZGFkIGRlIExpbWExHzAdBgNVBAsMFkluZ2VuaWVyaWEgZGUgU2lzdGVtYXMxFTAT
+BgNVBAMMDERpZWdvIEdhcmNpYTEpMCcGCSqGSIb3DQEJARYaZ2FyY2lhLmRpZWdv
+MTE5N0BnbWFpbC5jb20wHhcNMjAxMDA1MDY0NDUxWhcNMjExMDA1MDY0NDUxWjCB
+ljELMAkGA1UEBhMCUEUxDTALBgNVBAgMBExpbWExHDAaBgNVBAoME1VuaXZlcnNp
+ZGFkIGRlIExpbWExGDAWBgNVBAsMD0luZyBkZSBTaXN0ZW1hczEVMBMGA1UEAwwM
+RGllZ28gR2FyY2lhMSkwJwYJKoZIhvcNAQkBFhpnYXJjaWEuZGllZ28xMTk3QGdt
+YWlsLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzJXsXRrhk2r+jdUg
+1iMVWzeCcJqZZZdBTGCiy/gi/gKZ/x9rR3tP2nyf3XEU0kqUzTGO6Q8/NnvEvVxT
+9DQrVNWEowzwhKXObnU4VzV25Are49kYEv48PnnBSGaYzFJAQvYefnzLJOq+blqZ
+6J8rEWvYZnvtHN9pPtEwuYzmZjUCAwEAAaOCASowggEmMAkGA1UdEwQCMAAwLAYJ
+YIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1Ud
+DgQWBBSPP2o7VpEk3UjZbmC2CDpE2Qdx9TCBywYDVR0jBIHDMIHAoYGypIGvMIGs
+MQswCQYDVQQGEwJQRTENMAsGA1UECAwETGltYTENMAsGA1UEBwwETGltYTEcMBoG
+A1UECgwTVW5pdmVyc2lkYWQgZGUgTGltYTEfMB0GA1UECwwWSW5nZW5pZXJpYSBk
+ZSBTaXN0ZW1hczEVMBMGA1UEAwwMRGllZ28gR2FyY2lhMSkwJwYJKoZIhvcNAQkB
+FhpnYXJjaWEuZGllZ28xMTk3QGdtYWlsLmNvbYIJAJYmuKe8eG5bMA0GCSqGSIb3
+DQEBBQUAA4GBAItpNfmS1sPKVN7/74NHs33XhXnhpZByldeDL3svY8F7Z9/nd63g
+X13TgCRitaRI9TTFGS8A2/mVzlUH70BBGxyB7NxUD7Xa7BD3NvXDSuywPL7jEyZf
+Gf8U/WqVKE7xu2Nm6MomNey438rWmOUqFl4CwgXdI5v5Wp7XgfDeKNy3
+-----END CERTIFICATE-----
